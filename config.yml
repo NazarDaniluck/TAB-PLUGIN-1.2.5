@@ -1,0 +1,31 @@
+##      ##    ###    ########  ##    ## #### ##    ##  ######   
+##  ##  ##   ## ##   ##     ## ###   ##  ##  ###   ## ##    ##  
+##  ##  ##  ##   ##  ##     ## ####  ##  ##  ####  ## ##        
+##  ##  ## ##     ## ########  ## ## ##  ##  ## ## ## ##   #### 
+##  ##  ## ######### ##   ##   ##  ####  ##  ##  #### ##    ##  
+##  ##  ## ##     ## ##    ##  ##   ###  ##  ##   ### ##    ##  
+ ###  ###  ##     ## ##     ## ##    ## #### ##    ##  ######   
+# The plugin does not support placeholders and Cyrillic, please understand, the plugin was written by AI
+# Плагин не поддерживает плейсхолдеры и кириллицу, поймите, плагин написан ии
+
+
+# ENGLISH: Whether to include invisible prefixes to force row sorting.
+# If true, rows will be sorted exactly as they appear in the list.
+# If false, the order will be determined by alphabetical sorting (not recommended).
+#
+# RUSSIAN: Включать ли невидимые префиксы для принудительной сортировки строк.
+# Если true, строки будут идти точно в том порядке, как в списке.
+# Если false, порядок будет определяться алфавитной сортировкой (не рекомендуется).
+sort-prefix: true
+
+# ENGLISH: List of lines to display in the tab.
+# Color codes can be used with &.
+# Empty lines will be converted to spaces (to create an empty line in the tab).
+#
+# RUSSIAN: Список строк для отображения в табе.
+# Можно использовать цветовые коды через &.
+# Пустые строки будут преобразованы в пробел (чтобы была пустая строка в табе).
+lines:
+  - ''
+  - '&aServer Minecraft'
+  - ''
