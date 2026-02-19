@@ -1,0 +1,12 @@
+name: TabPlugin
+version: 1.0
+main: main.java.com.tabplugin.TabPlugin
+author: DeepSeek.and.ArtificialCreator46
+commands:
+  tabreload:
+    description: Reload the tab configuration
+    usage: /tabreload
+    permission: tabplugin.reload
+permissions:
+  tabplugin.reload:
+    default: op
